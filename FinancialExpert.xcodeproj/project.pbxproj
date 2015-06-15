@@ -196,7 +196,6 @@
 		0425884719C6C3EF006826D8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0425884919C6C3EF006826D8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		0425884B19C6C3EF006826D8 /* FinancialExpert-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "FinancialExpert-Prefix.pch"; sourceTree = "<group>"; };
-		0425884C19C6C3EF006826D8 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		0425884D19C6C3EF006826D8 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		0425884F19C6C3EF006826D8 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		0425885519C6C3EF006826D8 /* FinancialExpertTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FinancialExpertTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -334,6 +333,7 @@
 		0439799019CFBAD8005A678B /* head_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = head_bg.png; sourceTree = "<group>"; };
 		044E0C7219E4D2D700DDB4EB /* u17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = u17.png; sourceTree = "<group>"; };
 		044E0C7319E4D2D700DDB4EB /* u21.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = u21.png; sourceTree = "<group>"; };
+		04E40B1A1B2ECB5C008BABBF /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -499,8 +499,8 @@
 				0425886C19C6C428006826D8 /* UDID */,
 				042588F119C6CFBC006826D8 /* FirstView */,
 				0425890119C6D12A006826D8 /* Images */,
-				0425884C19C6C3EF006826D8 /* AppDelegate.h */,
 				0425884D19C6C3EF006826D8 /* AppDelegate.m */,
+				04E40B1A1B2ECB5C008BABBF /* AppDelegate.h */,
 				041CB24019C7C39400A89F0B /* SecondView */,
 				0425884F19C6C3EF006826D8 /* Images.xcassets */,
 				0425884419C6C3EF006826D8 /* Supporting Files */,
