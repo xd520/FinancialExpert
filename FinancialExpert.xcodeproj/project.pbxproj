@@ -129,6 +129,8 @@
 		0439799919CFBAD8005A678B /* head_bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 0439799019CFBAD8005A678B /* head_bg.png */; };
 		044E0C7419E4D2D700DDB4EB /* u17.png in Resources */ = {isa = PBXBuildFile; fileRef = 044E0C7219E4D2D700DDB4EB /* u17.png */; };
 		044E0C7519E4D2D700DDB4EB /* u21.png in Resources */ = {isa = PBXBuildFile; fileRef = 044E0C7319E4D2D700DDB4EB /* u21.png */; };
+		04E40B1E1B2ECCAA008BABBF /* MySvnViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04E40B1C1B2ECCAA008BABBF /* MySvnViewController.m */; };
+		04E40B1F1B2ECCAA008BABBF /* MySvnViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 04E40B1D1B2ECCAA008BABBF /* MySvnViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -334,6 +336,9 @@
 		044E0C7219E4D2D700DDB4EB /* u17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = u17.png; sourceTree = "<group>"; };
 		044E0C7319E4D2D700DDB4EB /* u21.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = u21.png; sourceTree = "<group>"; };
 		04E40B1A1B2ECB5C008BABBF /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		04E40B1B1B2ECCAA008BABBF /* MySvnViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MySvnViewController.h; sourceTree = "<group>"; };
+		04E40B1C1B2ECCAA008BABBF /* MySvnViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MySvnViewController.m; sourceTree = "<group>"; };
+		04E40B1D1B2ECCAA008BABBF /* MySvnViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MySvnViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -500,6 +505,9 @@
 				042588F119C6CFBC006826D8 /* FirstView */,
 				0425890119C6D12A006826D8 /* Images */,
 				0425884D19C6C3EF006826D8 /* AppDelegate.m */,
+				04E40B1B1B2ECCAA008BABBF /* MySvnViewController.h */,
+				04E40B1C1B2ECCAA008BABBF /* MySvnViewController.m */,
+				04E40B1D1B2ECCAA008BABBF /* MySvnViewController.xib */,
 				04E40B1A1B2ECB5C008BABBF /* AppDelegate.h */,
 				041CB24019C7C39400A89F0B /* SecondView */,
 				0425884F19C6C3EF006826D8 /* Images.xcassets */,
@@ -846,6 +854,7 @@
 				042533EA19CA973700FEA884 /* checkbox1_unchecked@2x.png in Resources */,
 				0425891319C6D198006826D8 /* c4.jpg in Resources */,
 				042533E819CA973700FEA884 /* checkbox1_checked@2x.png in Resources */,
+				04E40B1F1B2ECCAA008BABBF /* MySvnViewController.xib in Resources */,
 				0425253119D3E5590043657C /* 部件 (1).png in Resources */,
 				042533E019CA880B00FEA884 /* down_dark.png in Resources */,
 				042533E919CA973700FEA884 /* checkbox1_unchecked.png in Resources */,
@@ -913,6 +922,7 @@
 			files = (
 				0439798719CFB88D005A678B /* Base64.m in Sources */,
 				042533DE19CA877200FEA884 /* KxMenu.m in Sources */,
+				04E40B1E1B2ECCAA008BABBF /* MySvnViewController.m in Sources */,
 				0425886F19C6C443006826D8 /* OpenUDID.m in Sources */,
 				0439798619CFB88D005A678B /* GTMBase64.m in Sources */,
 				042588F019C6C98F006826D8 /* LeveyTabBar.m in Sources */,
